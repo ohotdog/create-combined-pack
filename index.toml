@@ -1653,11 +1653,6 @@ hash = "326b362e613ccbe8911c9572732b9361d2156b1efb815bd3b9e6caea767481b9"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "7398fbef71cc9b8693329e0ed7b401e90470600d453f20d7d4dd836e86ea5cbb"
-metafile = true
-
-[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "ee46cf398995c32ba0ab3596b5c17670c6ae1a17a207e7a8e3235503fbf0e1f6"
 metafile = true
@@ -1715,11 +1710,6 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "3270d4b580a6d934bbbfef03230d87790a49b8116f9c7a6418ac8bb01f114052"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "7814538ec2f96662b0c71e2f8cfc6b8cc3c4ba1bcfff29d00162ec3dc919bd19"
 metafile = true
 
 [[files]]
