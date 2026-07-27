@@ -1201,6 +1201,10 @@ file = "config/tacz-pre.toml"
 hash = "b127fc761c8e000a8f1aceaa19d28c644e64ed00137bdcd2d48a372540cc7bdc"
 
 [[files]]
+file = "config/tacznpc_loadouts.json"
+hash = "3f5a4b24c45b22ed693e93c7bff05a93443d97651e06ebb388eac20a59cf4f52"
+
+[[files]]
 file = "config/tide.json"
 hash = "2b259a2bb1f149b92507a95b260b0a04b4eef9a2c6e067dad1b93789c2dd3e11"
 
@@ -1230,7 +1234,7 @@ hash = "d0185185ffd46cd60e179a14dcf6a10dcfc9fea7af807390a577e6f201337e42"
 
 [[files]]
 file = "config/toughasnails/thirst.toml"
-hash = "1b539cbf2588e1ed876496794e47cc6cfdb2198f3cb0000975713469386dcb7a"
+hash = "a4061b148c550fe638259df41953af840c99e2136a7ca5961fb3821c1a0c0c69"
 
 [[files]]
 file = "config/trading_floor-server.toml"
