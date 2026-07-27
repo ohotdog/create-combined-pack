@@ -1,6 +1,6 @@
 filename = 'connectedcore-neoforge-1.0.1.jar'
 name = 'Connected Core'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '4371269fdf082c01258179454148944b8e04f8124d4af42880d57845d7838c7a81939b9eb9c86fa1a7f6b1f0c26a5f49a7fa333c95a29451888f639a9fc4e3c1'

@@ -1,6 +1,6 @@
 filename = 'rightclickharvest-neoforge-4.6.1+1.21.1.jar'
 name = 'RightClickHarvest'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '909cc4aba3ed535bb65c4cf285725907f100c0ebbcb619b1c861338b7993a020f0aef953bebeeb74920304c5a80e9cd07654aa5f885a5995824da7cf6784bf42'
