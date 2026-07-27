@@ -1923,6 +1923,11 @@ hash = "6af17348c0aa4463b3e9a926052782b747f73b6a4149946d740111ecdc266be1"
 metafile = true
 
 [[files]]
+file = "mods/minetraps.pw.toml"
+hash = "eb837389438190b85b4bddb27f8ae0427295adfd794c9558934f736eedae8b65"
+metafile = true
+
+[[files]]
 file = "mods/modern-world-creation.pw.toml"
 hash = "2bf015da748e3e9e76a76381837353decf8ac118fb7c5dd1943c0b7cf1f0f668"
 metafile = true
