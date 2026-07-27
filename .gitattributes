@@ -1,0 +1,6 @@
+# packwiz hashes files byte-for-byte. Git's autocrlf was rewriting line
+# endings between the working copy (CRLF on Windows) and the repo (LF),
+# so index.toml recorded CRLF hashes while players downloaded LF content --
+# every affected file failed with "Invalid mod file hash".
+# Store everything exactly as it is on disk. Do not remove this.
+* -text
