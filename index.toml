@@ -1518,8 +1518,18 @@ hash = "7b1a167f9635fea5e6cf611499941f42adeebe25d47f3e12d84a8cbec4383f6e"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+hash = "2de7339944ca4d988001c6cf30e9bf793cce8e18b6519fa3209afa8fb6ee3f94"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-going-ballistic.pw.toml"
+hash = "096ad5afb7d872a332829b0a2cdbffe6511dd4adcdbb7207b14a4f0f63b9224b"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "c64355d5d70b8a3ae797266f1d16b78a330932b7bf2ef932e82910e2b8c9e9e1"
+hash = "4b52cedb8991860023bd022e8d532884a901045f1ae9bbd22c06e4b02cc12386"
 metafile = true
 
 [[files]]
@@ -1550,6 +1560,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "29f0e30295703f88c4a3c2e7ea215d7fcc709908cf92ec0f055c19da9c41505d"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
 metafile = true
 
 [[files]]
@@ -1614,7 +1629,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "e66c8649557c5df5d660e64b635576f8aa836c05b14e915b8f4ae119c704d7bf"
 metafile = true
 
 [[files]]
@@ -2135,6 +2150,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "7c3cac4665cbca33c39135b7ba13d724fe4bb64360e7067ecb60244e620deab9"
+metafile = true
+
+[[files]]
+file = "mods/steel-armor-blocks.pw.toml"
+hash = "74224a1a64ddca85ae25c47096685800fdbc5736cb3f549980c61321603d6c33"
 metafile = true
 
 [[files]]
