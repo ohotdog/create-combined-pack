@@ -1,0 +1,13 @@
+name = "Gunsmith Lib"
+filename = "gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14b746f1c126be541aa1a175119290c3c1e6e273"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8484542
+project-id = 1264058

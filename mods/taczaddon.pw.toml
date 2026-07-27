@@ -1,0 +1,13 @@
+name = "TaCZ addon"
+filename = "taczaddon-1.21.1-1.1.8-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Ihyt5WL/versions/IjMp5fyp/taczaddon-1.21.1-1.1.8-alpha.jar"
+hash-format = "sha512"
+hash = "8f4955d8f5e5b9fa09eefd432f3367601df438660bb9728a931f6250abbb1e12faa246b616d7ddcdcd929907615cf757fe5a983d80ceca0c1ab3710c76355c34"
+
+[update]
+[update.modrinth]
+mod-id = "3Ihyt5WL"
+version = "IjMp5fyp"

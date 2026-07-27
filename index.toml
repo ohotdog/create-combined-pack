@@ -1388,23 +1388,28 @@ hash = "1da8ccdec2f53b8eb9baa3e5f2e0a4f05a2c6e1480e93497085e774bf34b89a5"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis-modern-ragnarok.pw.toml"
+hash = "a79fb17c1ea4b4a4aabfbd680c951c658d20a3570831976b5fed626d080ae6ea"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "cc181d3904f4d4bbd4063175888c56ab5112ea2609a285766c83bd3c85b9b029"
+hash = "523ccbfcfcd3d1e79dc06d91843b799d74d682f00bae899443326374d626fd37"
 metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "6d41410afc14800f59efe4ed0d085cd32b1b2a47d17dfe47382d7ac44c8c3e99"
+hash = "5d2ad0a166edb24cc0bdcd7e9883fd1dfd794c90584094d777cc34fc13b080c4"
 metafile = true
 
 [[files]]
 file = "mods/apothic-enchanting.pw.toml"
-hash = "87045cf0333e6728cfcfb2c026c794436097e573c607906d4a830134b41b6384"
+hash = "fe052c7ce46210cdd1158ec98180d7434f9389cd840da859c1751b1291439f6c"
 metafile = true
 
 [[files]]
 file = "mods/apothic-spawners.pw.toml"
-hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
+hash = "52ef97b1a588f7bb375e1099d420e82f310be06cb9d360ba938852955e41e857"
 metafile = true
 
 [[files]]
@@ -1628,6 +1633,11 @@ hash = "c7c920fbdf1415fff28d6b7aa0a2585be1df114ce03edff75ad2b78d359823ad"
 metafile = true
 
 [[files]]
+file = "mods/curios-for-ammo-box.pw.toml"
+hash = "3946004d275d35daff203a3feeb43c92448c235ac8aa7df9e0ebba7e0a09d4b7"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "82eb87f15876f75886842dad507cc6a494d2d53e061529dc6abc3f87591aef62"
 metafile = true
@@ -1755,6 +1765,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
+metafile = true
+
+[[files]]
+file = "mods/gunsmith-lib.pw.toml"
+hash = "a555bb4011e05c9cd471103409919486e065e41fcffa50cb7a4cea6129acc08f"
 metafile = true
 
 [[files]]
@@ -1974,7 +1989,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+hash = "26943af2fab4bde348a5c680796972672c2b2c717a42dbaa53d6a6ef6ae44738"
 metafile = true
 
 [[files]]
@@ -1989,7 +2004,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
+hash = "5db92d335ac2ebfdbe88b369b4b4350b616d3fb19d93dccbeabb481322b378d5"
 metafile = true
 
 [[files]]
@@ -2130,6 +2145,31 @@ metafile = true
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
 hash = "5d59d811e3b90e7c1e19f35850605261233404b3e4207bb4f6816fcc16c82590"
+metafile = true
+
+[[files]]
+file = "mods/tacz-bandits.pw.toml"
+hash = "953deba577e314e16a60d2e782ab53fc2a6f247beb2bfa089e37046829a219d7"
+metafile = true
+
+[[files]]
+file = "mods/tacz-durability.pw.toml"
+hash = "d290d9ed39816e71bc6d99af4edebd65ee7064e7ae67622fc3f25551392937b9"
+metafile = true
+
+[[files]]
+file = "mods/tacz-npcs.pw.toml"
+hash = "20d1c010d04a038774600e3c3f2c0cc92eabbe9229feb49144f426992217194a"
+metafile = true
+
+[[files]]
+file = "mods/tacz-tweaks.pw.toml"
+hash = "be9b9c48135b317ed2311066eb2d280df4d6fb6f91d4e278cc7af65a9de0cc1a"
+metafile = true
+
+[[files]]
+file = "mods/taczaddon.pw.toml"
+hash = "3cddedb5d5ef78b15a8503d906b35674633cbb8aee1554e242ddd71e4d458e39"
 metafile = true
 
 [[files]]

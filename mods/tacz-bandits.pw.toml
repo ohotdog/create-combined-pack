@@ -1,0 +1,13 @@
+name = "TACZ Bandits"
+filename = "tacz_bandits-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed830591e32d331639d7d63ea197299b68c7bb66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8111798
+project-id = 1547429
