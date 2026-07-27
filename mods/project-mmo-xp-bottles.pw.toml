@@ -1,0 +1,13 @@
+name = "Project MMO XP Bottles!"
+filename = "pmmo_xp_bottles-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61c1f72af6253c2e1e4808b753837a14b4be1270"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8189261
+project-id = 825174

@@ -1568,6 +1568,11 @@ hash = "a8287544bcc2752ac9778feaf295f21a43eb375f32385fc8c6929c6316f68751"
 metafile = true
 
 [[files]]
+file = "mods/create-netherless.pw.toml"
+hash = "cb99d74c49c8e48d520a6eba2b33d0b3ddee3d3ca1fd30e4fb05f039b03f16e8"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "132d0ff71fb189ea5ae6fa36af4d7774042b07d2b1cd8a60bccdce94f3230385"
 metafile = true
@@ -1770,6 +1775,11 @@ metafile = true
 [[files]]
 file = "mods/gunsmith-lib.pw.toml"
 hash = "a555bb4011e05c9cd471103409919486e065e41fcffa50cb7a4cea6129acc08f"
+metafile = true
+
+[[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "89787085b795067d933d636211006b9a99e69a00f660eaa5a5debf93cfc9b612"
 metafile = true
 
 [[files]]
@@ -2023,8 +2033,13 @@ hash = "a45daf98f5cc05ed5106c7cb5a2c06d9295dbeb7f43eef21d03ba3643f6434fe"
 metafile = true
 
 [[files]]
+file = "mods/project-mmo-xp-bottles.pw.toml"
+hash = "e5717a92f24f65ca71f6fe45507e04881c31851e4da83b0991e7cec77091d99c"
+metafile = true
+
+[[files]]
 file = "mods/project-mmo.pw.toml"
-hash = "716392f78ab181769446d49dd65bba5f47b7e9558ac1deb02a861dfbd1984966"
+hash = "5fd9e2fe1d5321d9a994d26c93e45be444f8d24e533e6012c9cb30b842065181"
 metafile = true
 
 [[files]]
