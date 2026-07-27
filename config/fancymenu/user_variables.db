@@ -1,0 +1,14 @@
+type = user_variables
+
+variable {
+  name = system
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = theme
+  value = dark
+  reset_on_launch = false
+}
+

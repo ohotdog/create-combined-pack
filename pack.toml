@@ -1,0 +1,16 @@
+name = "Create Combined"
+author = "alec"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b576049df512747c3a1fc0c06f2ef9f84a9d33bc12ad303110497d405b803c82"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.244"
+
+[options]
+acceptable-game-versions = ["1.21"]

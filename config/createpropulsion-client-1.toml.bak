@@ -1,0 +1,3 @@
+[Debug]
+	#Render thruster debug overlays (plume ray, obstruction hits, damage zones).
+	Thruster = false
