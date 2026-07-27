@@ -2163,6 +2163,11 @@ hash = "20d1c010d04a038774600e3c3f2c0cc92eabbe9229feb49144f426992217194a"
 metafile = true
 
 [[files]]
+file = "mods/tacz-sbw-suppression.pw.toml"
+hash = "7962a6139819022e6a04cd74a115d83158a116412e5a4411c92071e6d3fa9426"
+metafile = true
+
+[[files]]
 file = "mods/tacz-tweaks.pw.toml"
 hash = "be9b9c48135b317ed2311066eb2d280df4d6fb6f91d4e278cc7af65a9de0cc1a"
 metafile = true

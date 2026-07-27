@@ -1,0 +1,13 @@
+name = "[TACZ/SBW]Suppression"
+filename = "suppressionmod-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "963362f1f80d5ecf111c8e190b48024fa9473f3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7520453
+project-id = 1368336
