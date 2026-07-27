@@ -1,11 +1,6 @@
 filename = 'tacz-neoforge-1.21.1-1.1.8-hotfix-r4.jar'
 name = '[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.8-hotfix-r4'
 
 [download]
 hash = '58bbfe76ba379de62acf6a58a47d85d6f49c870f0b5f53f73dee100d002c6e5d3dfb99cf76ba53a9a6f603d7523962f89b17e9b503281e847bddffa7bc9272d6'

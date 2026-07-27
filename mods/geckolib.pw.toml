@@ -1,11 +1,6 @@
 filename = 'geckolib-neoforge-1.21.1-4.9.1.jar'
 name = 'Geckolib'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.9.1'
 
 [download]
 hash = '9e2f7b2565bf0e8cc1d6a13149b224903d13391032db5d0efb1382ff0d7431e3663ebe727470413e79dd66acff7bf5ccb80c64256771e138224950647ec8c1bc'

@@ -1,11 +1,6 @@
 filename = 'Notes-1.21-3.0.1-neoforge.jar'
 name = 'Notes'
 side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21-3.0.1-neoforge'
 
 [download]
 hash = 'fbf83d48b44834ffe393e805e74bf5ba3f7935df3f2e379bac4a208d1b2c9150345c7dbfb5dccdba3b9c0b2e0d9aa82b1e4f7fbcc34c9399e814ea1a57905361'

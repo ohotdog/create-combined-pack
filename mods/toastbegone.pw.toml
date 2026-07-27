@@ -1,11 +1,6 @@
 filename = 'toastbegone-neoforge-1.21-1.2.0.jar'
 name = 'ToastBegone'
 side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.2.0'
 
 [download]
 hash = '003011cb3365a18477614c2abef249298de974c55010c73a66efa3d008106cd21d11a6c61aa83578c0b484b68813727cf39245ef7bbf7e37ef32b6bc5eb1144f'
