@@ -1558,11 +1558,6 @@ hash = "12a90beeb5a46b46dfdc7ba2a5510107fbc60915e6cf1af129d365e20b99ce2d"
 metafile = true
 
 [[files]]
-file = "mods/create-more-package-couriers.pw.toml"
-hash = "0fbb34614a7eb6c141e313c36bfd4f0b05f3e03990900eddf694f751a2157f90"
-metafile = true
-
-[[files]]
 file = "mods/create-more-parallel-pipes.pw.toml"
 hash = "a8287544bcc2752ac9778feaf295f21a43eb375f32385fc8c6929c6316f68751"
 metafile = true
@@ -1724,7 +1719,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2a2f1278270be5ff3e4dc84881cd29f8a9d6c4a9a7529fe9ab29fb507e5c882d"
+hash = "7814538ec2f96662b0c71e2f8cfc6b8cc3c4ba1bcfff29d00162ec3dc919bd19"
 metafile = true
 
 [[files]]
@@ -2075,11 +2070,6 @@ metafile = true
 [[files]]
 file = "mods/saplanting.pw.toml"
 hash = "092b2cacd8fbfc6e2a11494b0dab2ac5a64763ddf82e8d2f414538ac97ff2a4f"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "49357727441f0274131a3b737f300e1366c9a0c40a73d20da6a69e48c1b11ec1"
 metafile = true
 
 [[files]]
