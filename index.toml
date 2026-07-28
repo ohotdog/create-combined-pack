@@ -2237,6 +2237,11 @@ hash = "90cebe6555c951c86d6ff6e776ce42eb99fd7b9293c13d2c62d939dd0f18977f"
 metafile = true
 
 [[files]]
+file = "mods/tough-as-nails-create-addon.pw.toml"
+hash = "742293294dfc8285663336670dece9ad90f74f45f15739ca2088d271b895e50a"
+metafile = true
+
+[[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "f615375185613c362892ab32d5359e9da1552345e92993feecb48853fa876711"
 metafile = true

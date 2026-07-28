@@ -1,0 +1,13 @@
+name = "Tough As Nails Create Addon"
+filename = "tanca-0.0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YaauRYg6/versions/znQDCdHp/tanca-0.0.3.1.jar"
+hash-format = "sha512"
+hash = "753519ef87a83d69f1308edb6314b7ccfb333a09d25da0e2b0dcdf790aa6063bba7b0a60d001669e81cf52bcf96b3c530bd4757e4dc49ec38fc50f22babd7a7c"
+
+[update]
+[update.modrinth]
+mod-id = "YaauRYg6"
+version = "znQDCdHp"
