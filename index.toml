@@ -1447,6 +1447,11 @@ hash = "d4ea46c043ecde09fa29bdf178074c80d8598ea0a4d71e9770b58767267b98a9"
 metafile = true
 
 [[files]]
+file = "mods/cave-dweller-reevolved.pw.toml"
+hash = "b8d2a44aad58e1acdfdead3d59f9f5e920ad1ee3e3f9bff294fa2a3218ee82eb"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "7bbbf848f24c3a3aecd68a1c4b44d16e6fc93d0bb9dcb20267ceecf9753a99f1"
 metafile = true
