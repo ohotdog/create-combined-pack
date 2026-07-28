@@ -2262,6 +2262,11 @@ hash = "4e1215b3f33d8abeb216fdc8d8d0e2d17723a054753e5adf6119b45528db81ac"
 metafile = true
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "1fab9f4acc95b436b9aeb5a78f1b773b9d206b69f870bea58d74bf754f7ba130"
 metafile = true
