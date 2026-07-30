@@ -1377,6 +1377,10 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
+file = "kubejs/startup_scripts/tacz_durability_repair_fix.js"
+hash = "d4c22b2e4f785ac14f5e4883c834df38e1facb4c2f29c1a586d0ca1178b02a71"
+
+[[files]]
 file = "mods/adorabuild-structures.pw.toml"
 hash = "6b3b3ac0d4c83e24dfdc273c1e0a34d4107acb5a8f578a0188a96a0b16524b4a"
 metafile = true
