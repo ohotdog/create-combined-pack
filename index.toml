@@ -1442,6 +1442,10 @@ hash = "c08743a39c147de36ca161359f66a496d55516796ec2b345ea9aadd071416d84"
 metafile = true
 
 [[files]]
+file = "mods/bunkerworks-1.0.0.jar"
+hash = "214f5ae0345120d265ae7c6cd8fbf8b815273cdceeb810eb60947eb2dfd792eb"
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "d4ea46c043ecde09fa29bdf178074c80d8598ea0a4d71e9770b58767267b98a9"
 metafile = true
