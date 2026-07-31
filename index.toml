@@ -102,7 +102,7 @@ hash = "6c09d2a75810e76c719b355c3480d1dc14b135f944f4a85d2118a395efc916c5"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "98377d55af494e7dc43f55521b428e5b44734b8ccadca8b41848153fdb820f46"
+hash = "1416fc6ef45ebe8ffac9413216115f35f76942b30226ccf715af117530aa0b93"
 
 [[files]]
 file = "config/cataclysm-client.toml"
