@@ -2145,6 +2145,11 @@ hash = "b92c1c543f1ddcc091720e1cc2e71b2dfc83aebdee9afbad3fd034d8971d54b9"
 metafile = true
 
 [[files]]
+file = "mods/slots-machine.pw.toml"
+hash = "3f0e2f63889e87379f07d5b44f488c9c9826cf112c63331229df38a596aabf0a"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "927203e2e63fc7a9aa06ff9f74bd64aeda900a97c9cb5757dde7831336ac1d6b"
 metafile = true

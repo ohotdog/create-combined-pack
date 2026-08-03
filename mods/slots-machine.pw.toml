@@ -1,0 +1,13 @@
+name = "Slots Machine"
+filename = "slotsmachine1.21.1-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ym1DACfm/versions/6p1UvzHY/slotsmachine1.21.1-1.1.8.jar"
+hash-format = "sha512"
+hash = "25d6358b56d193d12c7d098557f4db999e37f1ac72be6e44f858a31f6583ee6211e97e299dc3bb7b17a1dafff03ff50665bd08693b92bb382532d71964b23ee5"
+
+[update]
+[update.modrinth]
+mod-id = "Ym1DACfm"
+version = "6p1UvzHY"
