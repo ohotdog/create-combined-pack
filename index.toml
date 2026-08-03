@@ -1129,6 +1129,10 @@ file = "config/sliceanddice-common.toml"
 hash = "d55f7ebd08bef9b8bb2cca6a967ddb2b2309dd755ae4ac51af9176222e1139b6"
 
 [[files]]
+file = "config/slotsmachine-common.toml"
+hash = "7f510cdc6a39e00234b5b7e32af39c5e8749003709d1125c05367b9265cb45d3"
+
+[[files]]
 file = "config/sodium-fingerprint.json"
 hash = "b5de3abf56dbe5163422f7520190ea09f559fe887837ddb8eb1d3a0ba5d83ebc"
 

@@ -1,0 +1,5 @@
+#A list of items to allow being gambled with, you can have a max total of 9 different items!
+# Slots Machine ships no way to obtain its own coins -- every recipe it has is an
+# 8:1 conversion between coin tiers, so the default currency is unreachable in
+# survival. Pointed at the Numismatics denominations the pack already uses.
+valid_gambling_items = ["numismatics:cog", "numismatics:bevel", "numismatics:sprocket", "numismatics:crown", "numismatics:sun"]
