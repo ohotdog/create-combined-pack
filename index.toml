@@ -1130,7 +1130,7 @@ hash = "d55f7ebd08bef9b8bb2cca6a967ddb2b2309dd755ae4ac51af9176222e1139b6"
 
 [[files]]
 file = "config/slotsmachine-common.toml"
-hash = "01c4c7ce8fd86597634fbbc2a6e35fa894f5a4eeb10e2c89277188151ec54b1e"
+hash = "f48d4cf75bad9694d76657feaea2b29d0dab49bcb7370cb9310ab494d6f6c372"
 
 [[files]]
 file = "config/sodium-fingerprint.json"

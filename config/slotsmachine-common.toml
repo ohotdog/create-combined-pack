@@ -1,5 +1,5 @@
 #A list of items to allow being gambled with, you can have a max total of 9 different items!
-valid_gambling_items = ["numismatics:cog", "numismatics:bevel", "numismatics:sprocket", "numismatics:crown", "numismatics:sun"]
+valid_gambling_items = ["minecraft:emerald", "minecraft:diamond"]
 #Percentage that 2 of the same will occur in the slot machine [0.1 = 10%, 1.0 = 100%] (Range: 0.0 - 1.0)
 double_win_chance = 0.2
 #Percentage that 3 of the same will occur in the slot machine [0.1 = 10%, 1.0 = 100%] (Range: 0.0 - 1.0)
